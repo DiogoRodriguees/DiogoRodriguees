@@ -1,4 +1,7 @@
-### Hi there 👋
+### Opa!! Meu nome é Diogo Rodrigues, sou estudante de Ciência da Computação na UTFPR de Campo Mourão
+<div align="center" style="text-align: center">
+  <h1>Opa!! Meu nome é Diogo Rodrigues, sou estudante de Ciência da Computação na UTFPR de Campo Mourão</h1>
+</div>
   ##
 <div align="center">
   <a href="https://github.com/DiogoRodriguees">
