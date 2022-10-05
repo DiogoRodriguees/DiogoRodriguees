@@ -8,7 +8,7 @@
 
 
 </div>
-<div style="display: flex" justify-content="center" margin-left="50%"><br>
+<div style="display: flex" justify-content="center" align-itens="center" margin-left="50%"><br>
   <img align="center" alt="Diogo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Diogo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Diogo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
