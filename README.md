@@ -1,6 +1,6 @@
 
 <div align="center" style="text-align: center">
-  <h2>Opa!! Meu nome é Diogo Rodrigues, sou estudante de Ciência da Computação na UTFPR de Campo Mourão</h2>
+  <h2>Opa 👋!! Meu nome é Diogo Rodrigues, sou estudante de Ciência da Computação na UTFPR de Campo Mourão</h2>
 </div>
 
 <div align="center">
