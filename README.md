@@ -1,6 +1,7 @@
 
-<div align="center" style="text-align: center">
-  <h2>Opa 👋!! Meu nome é Diogo Rodrigues, sou estudante de Ciência da Computação na UTFPR de Campo Mourão</h2>
+<div align="center">
+  <img width="100%" src="./IMG_HEAD_README.png"/>
+
 </div>
 
 <div align="center">
