@@ -1,7 +1,8 @@
 
-<div align="center" >
-  <img width="100%" src="./IMG_HEAD_README.png"/>
-</div>
+# Bem vindo
+
+  Opa!! sou graduando do curso de Ciência da Computação na Universidade Tecnologica Federal do Paraná e possuo conhecimentos em Javascript, React, NodeJS   e C++. Sou apaixonado por tecnologia e sonho em ter minha própria empresa. Atualmente estudo desenvolvimento web tanto em front-end quanto back-end.
+
 
 <div> 
   <a href="https://www.instagram.com/di0go_rodrigues" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
