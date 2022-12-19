@@ -1,7 +1,7 @@
 
 # Bem vindo
 
-  Opa!! sou graduando do curso de Ciência da Computação na Universidade Tecnologica Federal do Paraná e possuo conhecimentos em Javascript, React, NodeJS   e C++. Sou apaixonado por tecnologia e sonho em ter minha própria empresa. Atualmente estudo desenvolvimento web tanto em front-end quanto back-end.
+  Opa!! sou graduando do curso de Ciência da Computação na Universidade Tecnologica Federal do Paraná e possuo conhecimentos em Javascript, React, NodeJS   e C++. Sou apaixonado por tecnologia e sonho em ter minha própria empresa. Atualmente estudo desenvolvimento web tanto front-end quanto back-end.
 
 
 <div> 
