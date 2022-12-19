@@ -12,25 +12,29 @@
 
 </div>
 
+
 ##
 <div align="center">
-
-  <a href="https://github.com/DiogoRodriguees">
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=DiogoRodriguees&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoRodriguees&layout=compact&langs_count=7&theme=github_dark&hide=C"/>
-    
-</div>
-<div align="center">
-<br>
- <img margin-left="50%" align="center" alt="Diogo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <div>
+  <img margin-left="50%" align="center" alt="Diogo-Js" height="30" width="40"          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Diogo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Diogo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Diogo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Diogo-C"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" alt="Diogo-CPP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-
-<!--   ![Snake animation](https://github.com/DiogoRodriguees/DiogoROdriguees/blob/output/github-contribution-grid-snake.svg) -->
 </div>
   
+ <div>
+  <a href="https://github.com/DiogoRodriguees">
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=DiogoRodriguees&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoRodriguees&layout=compact&langs_count=7&theme=github_dark&hide=C"/>
+    </div>
+</div>
+  
+<div align="center">
+ 
+<!--   ![Snake animation](https://github.com/DiogoRodriguees/DiogoROdriguees/blob/output/github-contribution-grid-snake.svg) -->
+</div>
+
 
 
