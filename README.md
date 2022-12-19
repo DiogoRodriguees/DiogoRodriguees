@@ -13,7 +13,6 @@
 </div>
 
 
-##
 <div align="center">
 <!--   <div>
   <img margin-left="50%" align="center" alt="Diogo-Js" height="30" width="40"          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
