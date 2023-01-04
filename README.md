@@ -5,8 +5,10 @@
 [PT_BR] Ola!! sou graduando do curso de Ciência da Computação na Universidade Tecnologica Federal do Paraná e possuo conhecimentos em Javascript, React, NodeJS   e C++. Sou apaixonado por tecnologia e sonho em ter minha própria empresa. Atualmente estudo desenvolvimento web tanto front-end quanto back-end.
 
 ### ⚙️ Github Analytics
+
 <a href="https://github.com/DiogoRodriguees">
 <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=DiogoRodriguees&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+   
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoRodriguees&layout=compact&langs_count=7&theme=github_dark&hide=C"/>
      
 ### ⚡ Tecnologias    
