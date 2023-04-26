@@ -15,15 +15,19 @@
      
 ### ⚡ Tecnologias    
 ![C++](https://img.shields.io/badge/-C++-%2320232a.svg?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![Tailwind](https://img.shields.io/badge/-Tailwind-%2320232a.svg?style=for-the-badge&logo=tailwindcss)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%2320232a.svg?style=for-the-badge&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-%2320232a.svg?style=for-the-badge&logo=typescript)&nbsp;
 ![React](https://img.shields.io/badge/-React-%2320232a.svg?style=for-the-badge&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-%2320232a.svg?style=for-the-badge&logo=node.js)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-%2320232a.svg?style=for-the-badge&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-%2320232a.svg?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-%2320232a.svg?style=for-the-badge&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-%2320232a.svg?style=for-the-badge&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-%2320232a.svg?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-%2320232a.svg?style=for-the-badge&logo=mysql)&nbsp;
+![Prisma](https://img.shields.io/badge/-Prisma-%2320232a.svg?style=for-the-badge&logo=prisma)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-%2320232a.svg?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
 
 ### 🤝 Contato
 <a href="https://www.instagram.com/di0go_rodrigues" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
