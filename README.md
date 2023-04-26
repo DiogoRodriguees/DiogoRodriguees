@@ -1,6 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=125DB3&height=120&section=header"/>
 
-### 👋 Bem vindo!!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0077FF&size=35&vCenter=true&width=1000&lines=Olá,+seja+bem+vindo!)](https://git.io/typing-svg)
+
 [EN] Hello!! I'm a graduate in Computer Science at the Federal Technological University of Paraná and I have knowledge in Javascript, React, NodeJS and C++. I am passionate in technology and I dream of having my own company. Currently studying web development front-end and back-end.
 
 [PT_BR] Ola!! sou graduando do curso de Ciência da Computação na Universidade Tecnologica Federal do Paraná e possuo conhecimentos em Javascript, React, NodeJS   e C++. Sou apaixonado por tecnologia e sonho em ter minha própria empresa. Atualmente estudo desenvolvimento web tanto front-end quanto back-end.
@@ -8,9 +9,9 @@
 ### ⚙️ Github Analytics
 
 <a href="https://github.com/DiogoRodriguees">
-<img height="180em"  src="https://github-readme-stats.vercel.app/api?username=DiogoRodriguees&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+<img height="180em"  src="https://github-readme-stats.vercel.app/api?username=DiogoRodriguees&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&title_color=0077FF"/>
    
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoRodriguees&layout=compact&langs_count=7&theme=github_dark&hide=C,Makefile"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoRodriguees&layout=compact&langs_count=7&theme=github_dark&hide=C,Makefile&hide_border=true&title_color=0077FF"/>
      
 ### ⚡ Tecnologias    
 ![C++](https://img.shields.io/badge/-C++-%2320232a.svg?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)&nbsp;
