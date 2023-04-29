@@ -6,7 +6,9 @@
 
 [PT_BR] Ola!! sou graduando do curso de Ciência da Computação na Universidade Tecnologica Federal do Paraná e possuo conhecimentos em Javascript, React, NodeJS   e C++. Sou apaixonado por tecnologia e sonho em ter minha própria empresa. Atualmente estudo desenvolvimento web tanto front-end quanto back-end.
 
-### ⚙️ Github Analytics
+<a href="https://www.instagram.com/di0go_rodrigues" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:diogorodrigueslife@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/diogorodriguees" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 
 <a href="https://github.com/DiogoRodriguees">
 <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=DiogoRodriguees&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&title_color=0077FF"/>
@@ -28,10 +30,5 @@
 ![Prisma](https://img.shields.io/badge/-Prisma-%2320232a.svg?style=for-the-badge&logo=prisma)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-%2320232a.svg?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-
-### 🤝 Contato
-<a href="https://www.instagram.com/di0go_rodrigues" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:diogorodrigueslife@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/diogorodriguees" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 
    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=125DB3&height=120&section=footer"/>
