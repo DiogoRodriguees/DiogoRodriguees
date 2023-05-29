@@ -15,7 +15,7 @@
 <a href="https://github.com/DiogoRodriguees">
 <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=DiogoRodriguees&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&title_color=0077FF"/>
    
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoRodriguees&layout=compact&langs_count=7&theme=github_dark&hide=C, CPP,Makefile&hide_border=true&title_color=0077FF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoRodriguees&layout=compact&langs_count=7&theme=github_dark&hide=C, Cpp,Makefile&hide_border=true&title_color=0077FF"/>
      
 ### Tecnologias  
 ![NodeJS](https://img.shields.io/badge/-Node.js-%2320232a.svg?style=for-the-badge&logo=node.js)&nbsp;
