@@ -21,7 +21,7 @@
 ### Tecnologias  
 ![NodeJS](https://img.shields.io/badge/-Node.js-%238BBF3D.svg?style=for-the-badge&logo=node.js&logoColor=%23FFF)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%23377CC8.svg?style=for-the-badge&logo=typescript&logoColor=%23FFF)&nbsp;
-![Javacript](https://img.shields.io/badge/-JavaScript-%23F6DE0C.svg?style=for-the-badge&logo=javascript&logoColor=%23FFF)&nbsp;
+![Javacript](https://img.shields.io/badge/-JavaScript-%23ecb000.svg?style=for-the-badge&logo=javascript&logoColor=%23FFF)&nbsp;
 ![Docker](https://img.shields.io/badge/docker-%23119AD4.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%2300599C.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-%2300718B.svg?style=for-the-badge&logo=mysql&logoColor=%23FFF)&nbsp;
