@@ -7,7 +7,7 @@
 [PT_BR] Ola!! sou graduando do curso de Ciência da Computação na Universidade Tecnologica Federal do Paraná e possuo conhecimentos em Javascript, Typescript, NodeJS, NestJS, React, Prisma, MySQL e C++. Sou apaixonado por tecnologia e sonho em ter minha própria empresa. Atualmente estudo desenvolvimento web tanto front-end quanto back-end.
 
 
-#### Contato
+### Contato
 <a href="https://www.instagram.com/di0go_rodrigues" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%230077B5?style=for-the-badge&logo=instagram&logoColor=white&backgroundoolor=" target="_blank"></a>
 <a href = "mailto:diogorodrigueslife@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%230077B5?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/diogorodriguees" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
@@ -18,7 +18,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoRodriguees&layout=compact&langs_count=7&theme=github_dark&hide=C,Makefile&hide_border=true&title_color=0077FF"/>
 
 
-#### Tecnologias  
+### Tecnologias  
 ![NodeJS](https://img.shields.io/badge/-Node.js-%238BBF3D.svg?style=for-the-badge&logo=node.js&logoColor=%23FFF)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%23377CC8.svg?style=for-the-badge&logo=typescript&logoColor=%23FFF)&nbsp;
 ![Javacript](https://img.shields.io/badge/-JavaScript-%23F6DE0C.svg?style=for-the-badge&logo=javascript&logoColor=%23FFF)&nbsp;
