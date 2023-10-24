@@ -33,7 +33,4 @@
 ![React](https://img.shields.io/badge/-React-%2336B7F0.svg?style=for-the-badge&logo=react&logoColor=%23FFF)&nbsp;
 ![Tailwind](https://img.shields.io/badge/-Tailwind-%2336B7F0.svg?style=for-the-badge&logo=tailwindcss&logoColor=%23FFF)&nbsp;
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=DiogoRodriguees&layout=compact&theme=dracula"/>
-
-
 <!--    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=125DB3&height=120&section=footer"/> -->
