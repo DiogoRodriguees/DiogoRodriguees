@@ -32,7 +32,6 @@
 
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%2300599C.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-%2300718B.svg?style=for-the-badge&logo=mysql&logoColor=%23FFF)&nbsp;
-
 ![Docker](https://img.shields.io/badge/docker-%23119AD4.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-%23E84D31.svg?style=for-the-badge&logo=git&logoColor=%23FFF)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-%23DD4814?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
