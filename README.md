@@ -8,6 +8,10 @@ Hello!! I'm a graduate in Computer Science at the Federal Technological Universi
 <a href = "mailto:diogorodrigueslife@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%230077B5?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>&nbsp;
 <a href="https://www.linkedin.com/in/diogorodriguees" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> &nbsp;
 
+<a href="https://github.com/DiogoRodriguees">
+<img height="180em"  src="https://github-readme-stats.vercel.app/api?username=DiogoRodriguees&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=false&title_color=f2f2f2"/>
+   
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoRodriguees&layout=compact&langs_count=7&theme=github_dark&hide=C,Makefile&hide_border=false&title_color=FFF"/>
 
 
 #### Tecnologias  
@@ -28,10 +32,6 @@ Hello!! I'm a graduate in Computer Science at the Federal Technological Universi
 <!-- ![PostgreSQL](https://img.shields.io/badge/postgresql-%2300599C.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp; -->
 <!--  ![MySQL](https://img.shields.io/badge/-MySQL-%2300718B.svg?style=for-the-badge&logo=mysql&logoColor=%23FFF)&nbsp; -->
 
-<a href="https://github.com/DiogoRodriguees">
-<img height="180em"  src="https://github-readme-stats.vercel.app/api?username=DiogoRodriguees&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=false&title_color=f2f2f2"/>
-   
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoRodriguees&layout=compact&langs_count=7&theme=github_dark&hide=C,Makefile&hide_border=false&title_color=FFF"/>
 
 
 <!--    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=125DB3&height=120&section=footer"/> -->
