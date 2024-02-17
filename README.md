@@ -15,7 +15,6 @@ Hello!! I'm a graduate in Computer Science at the Federal Technological Universi
 ![NestJS](https://img.shields.io/badge/-NestJs-ea2845?style=for-the-badge&logo=nestjs&logoColor=white)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%23377CC8.svg?style=for-the-badge&logo=typescript&logoColor=%23FFF)&nbsp;
 ![GoLang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)&nbsp;
-
 ![Docker](https://img.shields.io/badge/docker-%23119AD4.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-%23E84D31.svg?style=for-the-badge&logo=git&logoColor=%23FFF)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-%23DD4814?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
