@@ -16,10 +16,10 @@ Hello!! I'm a graduate in Computer Science at the Federal Technological Universi
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%23377CC8.svg?style=for-the-badge&logo=typescript&logoColor=%23FFF)&nbsp;
 ![GoLang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/docker-%23119AD4.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/-Git-%23E84D31.svg?style=for-the-badge&logo=git&logoColor=%23FFF)&nbsp;
-![Ubuntu](https://img.shields.io/badge/Ubuntu-%23DD4814?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
-![Linux](https://img.shields.io/badge/Linux-%23003561?style=for-the-badge&logo=linux&logoColor=%23FFF)&nbsp;
 ![NextJS](https://img.shields.io/badge/-Next.js-%23000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
+<!-- ![Git](https://img.shields.io/badge/-Git-%23E84D31.svg?style=for-the-badge&logo=git&logoColor=%23FFF)&nbsp; -->
+<!--![Ubuntu](https://img.shields.io/badge/Ubuntu-%23DD4814?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp; -->
+<!-- ![Linux](https://img.shields.io/badge/Linux-%23003561?style=for-the-badge&logo=linux&logoColor=%23FFF)&nbsp; -->
 <!-- ![Javacript](https://img.shields.io/badge/-JavaScript-%23ecb000.svg?style=for-the-badge&logo=javascript&logoColor=%23FFF)&nbsp; -->
 <!-- ![NodeJS](https://img.shields.io/badge/-Node.js-%238BBF3D.svg?style=for-the-badge&logo=node.js&logoColor=%23FFF)&nbsp; -->
 <!-- ![C++](https://img.shields.io/badge/-C++-%2300427E.svg?style=for-the-badge&logo=C%2B%2B&logoColor=%23FFF)&nbsp; -->
