@@ -1,6 +1,6 @@
 <!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=125DB3&height=120&section=header"/> -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0077FF&size=25&vCenter=true&width=1000&lines=Olá,+seja+bem+vindo!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=25&vCenter=true&width=1000&lines=Olá,+seja+bem+vindo!)](https://git.io/typing-svg)
 
 Hello!! I'm a graduate in Computer Science at the Federal Technological University of Paraná. I currently work as a backend developer, using NestJS and TypeScript technologies.
 
