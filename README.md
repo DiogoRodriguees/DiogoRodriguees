@@ -11,7 +11,7 @@ Hello!! I'm a graduate in Computer Science at the Federal Technological Universi
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoRodriguees&layout=compact&langs_count=7&theme=github_dark&hide=C,Makefile&hide_border=false&title_color=FFF"/>
 
 
-#### Tecnologias  
+#### Technologies  
 ![NestJS](https://img.shields.io/badge/-NestJs-ea2845?style=for-the-badge&logo=nestjs&logoColor=white)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%23377CC8.svg?style=for-the-badge&logo=typescript&logoColor=%23FFF)&nbsp;
 ![GoLang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)&nbsp;
