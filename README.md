@@ -1,19 +1,20 @@
-<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=125DB3&height=120&section=header"/> -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=125DB3&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=25&vCenter=true&width=1000&lines=Olá,+seja+bem+vindo!)](https://git.io/typing-svg)
 
 Hello!! I'm a graduate in Computer Science at the Federal Technological University of Paraná. I currently work as a backend developer, using NestJS and TypeScript technologies.
+
 
 #### Projects
 - [todo-authentication](https://github.com/DiogoRodriguees/todo-authentication)
 - [todo-users](https://github.com/DiogoRodriguees/todo-users)
 - [todo-tassks](https://github.com/DiogoRodriguees/todo-tasks)
 
-#### Github Analytics
+#### Github Analysis
 <a href="https://github.com/DiogoRodriguees">
-<img height="180em"  src="https://github-readme-stats.vercel.app/api?username=DiogoRodriguees&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&title_color=f2f2f2"/>
-   
+<img height="180em"  src="https://github-readme-stats.vercel.app/api?username=DiogoRodriguees&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&title_color=f2f2f2"/>   
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoRodriguees&layout=compact&langs_count=7&theme=github_dark&hide=C,CSS,HTML,Makefile&hide_border=true&title_color=FFF"/>
+
 
 
 #### Technologies  
@@ -40,4 +41,8 @@ Hello!! I'm a graduate in Computer Science at the Federal Technological Universi
 <a href = "mailto:diogorodrigueslife@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%230077B5?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>&nbsp;
 <a href="https://www.linkedin.com/in/diogorodriguees" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> &nbsp;
 
-<!--    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=125DB3&height=120&section=footer"/> -->
+
+
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=125DB3&height=120&section=footer"/> 
