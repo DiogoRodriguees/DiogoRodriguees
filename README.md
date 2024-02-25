@@ -4,7 +4,12 @@
 
 Hello!! I'm a graduate in Computer Science at the Federal Technological University of Paraná. I currently work as a backend developer, using NestJS and TypeScript technologies.
 
+#### Projects
+- [todo-authentication](https://github.com/DiogoRodriguees/todo-authentication)
+- [todo-users](https://github.com/DiogoRodriguees/todo-users)
+- [todo-tassks](https://github.com/DiogoRodriguees/todo-tasks)
 
+#### Github Analytics
 <a href="https://github.com/DiogoRodriguees">
 <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=DiogoRodriguees&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&title_color=f2f2f2"/>
    
