@@ -6,7 +6,7 @@ Hello!! I'm a graduate in Computer Science at the Federal Technological Universi
 
 
 #### Projects
-- [My Setup Linux](https://github.com/DiogoRodriguees/my-setup-linux)
+- [my-setup-linux](https://github.com/DiogoRodriguees/my-setup-linux)
 - [todo-authentication](https://github.com/DiogoRodriguees/todo-authentication)
 - [todo-users](https://github.com/DiogoRodriguees/todo-users)
 - [todo-tassks](https://github.com/DiogoRodriguees/todo-tasks)
