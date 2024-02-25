@@ -17,7 +17,7 @@ Hello!! I'm a graduate in Computer Science at the Federal Technological Universi
 ![GoLang](https://img.shields.io/badge/Go-%2300A7D0?style=for-the-badge&logo=go&logoColor=white)&nbsp;
 ![Kotlin](https://img.shields.io/badge/Kotlin-%23B125EA?style=for-the-badge&logo=Kotlin&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/docker-%231C60E6.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
-![Linux](https://img.shields.io/badge/Linux-%23E95515?style=for-the-badge&logo=linux&logoColor=%23FFF)&nbsp;
+![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95515?style=for-the-badge&logo=ubuntu&logoColor=%23FFF)&nbsp;
 ![NextJS](https://img.shields.io/badge/-Next.js-%23000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
 <!-- ![Git](https://img.shields.io/badge/-Git-%23E84D31.svg?style=for-the-badge&logo=git&logoColor=%23FFF)&nbsp; -->
 <!--![Ubuntu](https://img.shields.io/badge/Ubuntu-%23DD4814?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp; -->
