@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=25&vCenter=true&width=1000&lines=Olá,+seja+bem+vindo!)](https://git.io/typing-svg)
 
-Hello!! I'm a graduate in Computer Science at the Federal Technological University of Paraná. I currently work as a backend developer, using NestJS and TypeScript technologies.
+Hello!! I'm a graduate in Computer Science at the Federal Technological University of Paraná. I currently work as backend developer with NestJS and TypeScript.
 
 <!--
 #### Projects
