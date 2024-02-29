@@ -43,8 +43,8 @@ Hello!! I'm a graduate in Computer Science at the Federal Technological Universi
 
 #### Contact me
 
-<a href="https://www.instagram.com/di0go_rodrigues" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%230077B5?style=for-the-badge&logo=instagram&logoColor=white&backgroundoolor=" target="_blank"></a>&nbsp;
-<a href = "mailto:diogorodrigueslife@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%230077B5?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>&nbsp;
-<a href="https://www.linkedin.com/in/diogorodriguees" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> &nbsp;
+<a href="https://www.instagram.com/di0go_rodrigues" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%231C60E6?style=for-the-badge&logo=instagram&logoColor=white&backgroundoolor=" target="_blank"></a>&nbsp;
+<a href = "mailto:diogorodrigueslife@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%231C60E6?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>&nbsp;
+<a href="https://www.linkedin.com/in/diogorodriguees" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%231C60E6?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> &nbsp;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=125DB3&height=120&section=footer"/> 
