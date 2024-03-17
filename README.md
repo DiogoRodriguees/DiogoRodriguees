@@ -23,7 +23,8 @@ Hello!! I'm a graduate in Computer Science at the Federal Technological Universi
 ![NestJS](https://img.shields.io/badge/-NestJs-ea2845?style=for-the-badge&logo=nestjs&logoColor=white)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%232F74C0.svg?style=for-the-badge&logo=typescript&logoColor=%23FFF)&nbsp;
 ![GoLang](https://img.shields.io/badge/Go-%2300A7D0?style=for-the-badge&logo=go&logoColor=white)&nbsp;
-![Kotlin](https://img.shields.io/badge/Kotlin-%23B125EA?style=for-the-badge&logo=Kotlin&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/Java-%23F49A3A?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+![Postgres](https://img.shields.io/badge/Postgres-%23477FA5?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/docker-%231C60E6.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95515?style=for-the-badge&logo=ubuntu&logoColor=%23FFF)&nbsp;
 ![NextJS](https://img.shields.io/badge/-Next.js-%23000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
