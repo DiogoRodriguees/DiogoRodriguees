@@ -28,19 +28,20 @@ Hello!! I'm a graduate in Computer Science at the Federal Technological Universi
 ![Docker](https://img.shields.io/badge/docker-%231C60E6.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95515?style=for-the-badge&logo=ubuntu&logoColor=%23FFF)&nbsp;
 ![NextJS](https://img.shields.io/badge/-Next.js-%23000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
+
+
+<!-- 
 ![Tailwind](https://img.shields.io/badge/-Tailwind-%2336B7F0.svg?style=for-the-badge&logo=tailwindcss&logoColor=%23FFF)&nbsp; 
-
-<!-- ![React](https://img.shields.io/badge/-React-%2336B7F0.svg?style=for-the-badge&logo=react&logoColor=%23FFF)&nbsp:
-<!-- ![Git](https://img.shields.io/badge/-Git-%23E84D31.svg?style=for-the-badge&logo=git&logoColor=%23FFF)&nbsp; 
-<!--![Ubuntu](https://img.shields.io/badge/Ubuntu-%23DD4814?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp; 
-<!-- ![Linux](https://img.shields.io/badge/Linux-%23003561?style=for-the-badge&logo=linux&logoColor=%23FFF)&nbsp; 
-<!-- ![Javacript](https://img.shields.io/badge/-JavaScript-%23ecb000.svg?style=for-the-badge&logo=javascript&logoColor=%23FFF)&nbsp; 
-<!-- ![NodeJS](https://img.shields.io/badge/-Node.js-%238BBF3D.svg?style=for-the-badge&logo=node.js&logoColor=%23FFF)&nbsp; 
-<!-- ![C++](https://img.shields.io/badge/-C++-%2300427E.svg?style=for-the-badge&logo=C%2B%2B&logoColor=%23FFF)&nbsp; 
-
-<!-- ![Tailwind](https://img.shields.io/badge/-Tailwind-%2336B7F0.svg?style=for-the-badge&logo=tailwindcss&logoColor=%23FFF)&nbsp; 
-<!-- ![PostgreSQL](https://img.shields.io/badge/postgresql-%2300599C.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp; 
-<!--  ![MySQL](https://img.shields.io/badge/-MySQL-%2300718B.svg?style=for-the-badge&logo=mysql&logoColor=%23FFF)&nbsp; -->
+![React](https://img.shields.io/badge/-React-%2336B7F0.svg?style=for-the-badge&logo=react&logoColor=%23FFF)&nbsp:
+![Git](https://img.shields.io/badge/-Git-%23E84D31.svg?style=for-the-badge&logo=git&logoColor=%23FFF)&nbsp; 
+![Ubuntu](https://img.shields.io/badge/Ubuntu-%23DD4814?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp; 
+![Linux](https://img.shields.io/badge/Linux-%23003561?style=for-the-badge&logo=linux&logoColor=%23FFF)&nbsp; 
+![Javacript](https://img.shields.io/badge/-JavaScript-%23ecb000.svg?style=for-the-badge&logo=javascript&logoColor=%23FFF)&nbsp; 
+![NodeJS](https://img.shields.io/badge/-Node.js-%238BBF3D.svg?style=for-the-badge&logo=node.js&logoColor=%23FFF)&nbsp; 
+![C++](https://img.shields.io/badge/-C++-%2300427E.svg?style=for-the-badge&logo=C%2B%2B&logoColor=%23FFF)&nbsp; 
+![Tailwind](https://img.shields.io/badge/-Tailwind-%2336B7F0.svg?style=for-the-badge&logo=tailwindcss&logoColor=%23FFF)&nbsp; 
+![PostgreSQL](https://img.shields.io/badge/postgresql-%2300599C.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp; 
+![MySQL](https://img.shields.io/badge/-MySQL-%2300718B.svg?style=for-the-badge&logo=mysql&logoColor=%23FFF)&nbsp; -->
 
 #### Contact me
 
