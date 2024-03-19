@@ -16,7 +16,7 @@ Hello!! I'm a graduate in Computer Science at the Federal Technological Universi
 
 <a href="https://github.com/DiogoRodriguees">
 <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=DiogoRodriguees&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&title_color=f2f2f2"/>   
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoRodriguees&layout=compact&langs_count=7&theme=github_dark&hide=C,CSS,HTML,Makefile&hide_border=true&title_color=FFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoRodriguees&layout=compact&langs_count=8&theme=github_dark&hide=CSS,HTML,Makefile&hide_border=true&title_color=FFF"/>
 
 #### Technologies  
 
@@ -24,6 +24,8 @@ Hello!! I'm a graduate in Computer Science at the Federal Technological Universi
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%232F74C0.svg?style=for-the-badge&logo=typescript&logoColor=%23FFF)&nbsp;
 ![GoLang](https://img.shields.io/badge/Go-%2300A7D0?style=for-the-badge&logo=go&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/Java-%23F49A3A?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-%233C77A8?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![C++](https://img.shields.io/badge/C++-%2300427E?style=for-the-badge&logo=cplusplus&logoColor=white)&nbsp;
 ![Postgres](https://img.shields.io/badge/Postgres-%23477FA5?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/docker-%231C60E6.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95515?style=for-the-badge&logo=ubuntu&logoColor=%23FFF)&nbsp;
