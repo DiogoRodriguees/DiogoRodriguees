@@ -4,38 +4,32 @@
 
 Hello!! I'm a graduate in Computer Science at the Federal Technological University of Paraná. I currently work as backend developer with NestJS and TypeScript.
 
-<!--
-#### Projects
-- [my-setup-linux](https://github.com/DiogoRodriguees/my-setup-linux)
-- [todo-authentication](https://github.com/DiogoRodriguees/todo-authentication)
-- [todo-users](https://github.com/DiogoRodriguees/todo-users)
-- [todo-tassks](https://github.com/DiogoRodriguees/todo-tasks)
--->
-
-
 #### Github Analysis
 
 <a href="https://github.com/DiogoRodriguees">
 <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=DiogoRodriguees&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&title_color=f2f2f2"/>   
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoRodriguees&layout=compact&langs_count=6&theme=github_dark&hide=C,CMake,CSS,HTML,Swift,Makefile&hide_border=true&title_color=FFF"/>
 
-#### Technologies  
+#### Experience with
 
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%232F74C0.svg?style=for-the-badge&logo=typescript&logoColor=%23FFF)&nbsp;
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/docker-%231C60E6.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
+![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)&nbsp;
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)&nbsp;
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
+
+#### Others Technologies  
+
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)&nbsp;
-![Docker](https://img.shields.io/badge/docker-%231C60E6.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
-![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)&nbsp;
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
 ![NextJS](https://img.shields.io/badge/-Next.js-%23000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
 
