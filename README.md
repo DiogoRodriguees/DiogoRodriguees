@@ -4,13 +4,13 @@
 
 Hello!! I'm a graduate in Computer Science at the Federal Technological University of Paraná. I currently work as backend developer with NestJS and TypeScript.
 
-#### Github Analysis
+### Github Analysis
 
 <a href="https://github.com/DiogoRodriguees">
 <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=DiogoRodriguees&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&title_color=f2f2f2"/>   
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoRodriguees&layout=compact&langs_count=6&theme=github_dark&hide=C,CMake,CSS,HTML,Swift,Makefile&hide_border=true&title_color=FFF"/>
 
-#### Experience with
+### Experience with
 
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%232F74C0.svg?style=for-the-badge&logo=typescript&logoColor=%23FFF)&nbsp;
@@ -22,7 +22,7 @@ Hello!! I'm a graduate in Computer Science at the Federal Technological Universi
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
 
-#### Others Technologies  
+### Others Technologies  
 
 ![Ruby](https://img.shields.io/badge/ruby-A11400?style=for-the-badge&logo=ruby&logoColor=white)&nbsp;
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)&nbsp;
@@ -52,7 +52,7 @@ Hello!! I'm a graduate in Computer Science at the Federal Technological Universi
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%2300599C.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp; 
 ![MySQL](https://img.shields.io/badge/-MySQL-%2300718B.svg?style=for-the-badge&logo=mysql&logoColor=%23FFF)&nbsp; -->
 
-#### Contact me
+### Contact me
 
 <a href="https://www.instagram.com/di0go_rodrigues" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%231C60E6?style=for-the-badge&logo=instagram&logoColor=white&backgroundoolor=" target="_blank"></a>&nbsp;
 <a href = "mailto:diogorodrigueslife@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%231C60E6?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>&nbsp;
