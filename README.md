@@ -6,7 +6,7 @@ Desenvolvedor de Software e graduando do Bacharelado em Ciência da Computação
 
 Tenho como principal objetivo me especializar em arquitetura de sistemas e computação em nuvem, área na qual busco constantemente aprimorar meus conhecimentos e habilidades. 
 ### Experiência com
-[![My Skills](https://skillicons.dev/icons?i=aws,postgres,mongodb,java,spring,golang,typescript,nestjs,express,nodejs,react,next,python,kubernetes,docker,redis,git,bash,rabbitmq,terraform&perline=11)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,postgres,mongodb,typescript,nestjs,react,next,java,spring,golang,,python,kubernetes,docker,redis,git,bash,rabbitmq,terraform&perline=11)](https://skillicons.dev)
 
 <!---
 ### Github Analysis
