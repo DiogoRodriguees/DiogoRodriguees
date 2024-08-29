@@ -2,14 +2,21 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=25&vCenter=true&width=1000&lines=Olá,+seja+bem+vindo!)](https://git.io/typing-svg)
 
-Hello!! I'm a graduate in Computer Science at the Federal Technological University of Paraná. I currently work as backend developer with NestJS and TypeScript.
+Desenvolvedor de Software e graduando do Bacharelado em Ciência da Computação pela UTFPR. 
 
+Tenho como principal objetivo me especializar em arquitetura de sistemas e computação em nuvem, área na qual busco constantemente aprimorar meus conhecimentos e habilidades. 
+### Experiência com
+[![My Skills](https://skillicons.dev/icons?i=aws,postgres,mongodb,java,spring,golang,typescript,nestjs,express,nodejs,react,next,python,kubernetes,docker,redis,git,bash,rabbitmq,terraform&perline=11)](https://skillicons.dev)
+
+<!---
 ### Github Analysis
 
 <a href="https://github.com/DiogoRodriguees">
 <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=DiogoRodriguees&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&title_color=f2f2f2"/>   
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoRodriguees&layout=compact&langs_count=6&theme=github_dark&hide=C,cpp,dart,shell,CMake,CSS,HTML,Swift,Makefile&hide_border=true&title_color=FFF"/>
+--->
 
+<!---
 ### Experience with
 
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)&nbsp;
@@ -33,7 +40,7 @@ Hello!! I'm a graduate in Computer Science at the Federal Technological Universi
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![NextJS](https://img.shields.io/badge/-Next.js-%23000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
-
+-->
 <!-- 
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
@@ -52,7 +59,7 @@ Hello!! I'm a graduate in Computer Science at the Federal Technological Universi
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%2300599C.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp; 
 ![MySQL](https://img.shields.io/badge/-MySQL-%2300718B.svg?style=for-the-badge&logo=mysql&logoColor=%23FFF)&nbsp; -->
 
-### Contact me
+### Contato
 
 <a href="https://www.instagram.com/di0go_rodrigues" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%231C60E6?style=for-the-badge&logo=instagram&logoColor=white&backgroundoolor=" target="_blank"></a>&nbsp;
 <a href = "mailto:diogorodrigueslife@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%231C60E6?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>&nbsp;
