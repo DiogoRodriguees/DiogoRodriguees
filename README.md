@@ -6,9 +6,10 @@ Desenvolvedor de Software e graduando do Bacharelado em Ciência da Computação
 
 Tenho como principal objetivo me especializar em arquitetura de sistemas e computação em nuvem, área na qual busco constantemente aprimorar meus conhecimentos e habilidades. 
 
+- [Projetos da Graduação](https://github.com/stars/DiogoRodriguees/lists/university-projects)
 - [Projetos em Java](https://github.com/stars/DiogoRodriguees/lists/java-projects)
 - [Projetos em TypeScript](https://github.com/stars/DiogoRodriguees/lists/typescript-projects)
-- [Projetos da Graduação](https://github.com/stars/DiogoRodriguees/lists/university-projects)
+- [Projetos em GO](https://github.com/stars/DiogoRodriguees/lists/go)
 
 ### Experiência com
 [![My Skills](https://skillicons.dev/icons?i=aws,postgres,mongodb,typescript,nestjs,react,next,java,spring,golang,,python,kubernetes,docker,redis,git,bash,rabbitmq,terraform&perline=11)](https://skillicons.dev)
