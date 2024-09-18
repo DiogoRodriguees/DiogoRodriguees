@@ -12,7 +12,7 @@ Tenho como principal objetivo me especializar em sistemas distribuidos e computa
 - [Projetos em GO](https://github.com/stars/DiogoRodriguees/lists/go-projects)
 
 ### Experiência com
-[![My Skills](https://skillicons.dev/icons?i=aws,postgres,mongodb,typescript,nestjs,react,next,java,spring,golang,,python,kubernetes,docker,redis,git,bash,rabbitmq,terraform&perline=11)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,postgres,mongodb,typescript,nestjs,react,next,java,spring,golang,python,kubernetes,docker,redis,git,bash,rabbitmq,terraform&perline=11)](https://skillicons.dev)
 
 <!---
 ### Github Analysis
