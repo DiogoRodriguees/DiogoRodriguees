@@ -24,8 +24,7 @@ Desenvolvedor Backend e graduando do Bacharelado em Ciência da Computação na 
   - **AWS S3:** sistema de arquivos (imagens e PDFs)
   - **AWS SES:** serviço de emails
   - **AWS RDS:** servidor de banco de dados relacional (PostgreSQL)
-  - **AWS Lightsail:** servidores windows, linux e servidores para wordpress  
-
+  
 - #### Containers
   - **Docker:** criação de container docker para deploy de aplicações
   - **Kubernetes:** gerenciamento de infraestrutura no Elastic Compute Cloud
