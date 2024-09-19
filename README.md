@@ -2,16 +2,42 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=25&vCenter=true&width=1000&lines=Olá,+seja+bem+vindo!)](https://git.io/typing-svg)
 
-Desenvolvedor de Software e graduando do Bacharelado em Ciência da Computação pela UTFPR. 
+### Sobre
 
-Tenho como principal objetivo me especializar em sistemas distribuidos e computação em nuvem, área na qual busco constantemente aprimorar meus conhecimentos e habilidades. Durante minha carreira profissional, tive a oportunidade de me especializar nas seguintes tecnologias: TypeScript, NestJS, PostrgeSQL, NextJS, RabbitMQ, Docker e Git. Além disso, possuo uma pequena experiência com Java, GO, Redis, MongoDB e Python.
+Desenvolvedor Backend e graduando do Bacharelado em Ciência da Computação na UTFPR. Tenho como principal objetivo me especializar em sistemas distribuidos e computação em nuvem. 
 
+### Experiência
+- #### Linguagens e frameworks
+  - **TypeScript:** linguagem de maior dominio, focado no desenvolvimento web
+  - **NestJS:** framework para desenvolvimento web
+  - **NextJS:** desenvolvimento de interfaces web
+  - **PostgreSQL:** SGBD de maior dominio (conhecimento da arquitetura e otimizações)
+  - **Java**: implementação de aplicações distribuidas e serviços web
+
+- #### Micro serviços
+  - **RabbitMQ:** comunicação entre serviços utilizando fila de mesagens e exchanges
+  - **Redis:** otimização de pesquisa utilizano sistema de cache
+  - **gRPC:** criação de metodos para acesso remoto por outros micro serviços
+
+- #### Serviços em nuvem
+  - **AWS Secret Manager:** gerenciamento se senhas
+  - **AWS S3:** sistema de arquivos (imagens e PDFs)
+  - **AWS SES:** serviço de emails
+  - **AWS RDS:** servidor de banco de dados relacional (PostgreSQL)
+  - **AWS Lightsail:** servidores windows, linux e servidores para wordpress  
+
+- #### Containers
+  - **Docker:** criação de container docker para deploy de aplicações
+  - **Kubernetes:** gerenciamento de infraestrutura no Elastic Compute Cloud
+ 
+
+### Projetos de aprendizagem
 - [Projetos da Graduação](https://github.com/stars/DiogoRodriguees/lists/university-projects)
 - [Projetos em Java](https://github.com/stars/DiogoRodriguees/lists/java-projects)
 - [Projetos em TypeScript](https://github.com/stars/DiogoRodriguees/lists/typescript-projects)
 - [Projetos em GO](https://github.com/stars/DiogoRodriguees/lists/go-projects)
 
-### Experiência com
+### Tecnologias de interesse
 [![My Skills](https://skillicons.dev/icons?i=aws,postgres,mongodb,typescript,nestjs,react,next,java,spring,golang,python,kubernetes,docker,redis,git,bash,rabbitmq,terraform&perline=11)](https://skillicons.dev)
 
 <!---
