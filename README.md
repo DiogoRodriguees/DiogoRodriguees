@@ -92,7 +92,7 @@ Desenvolvedor Backend e graduando do Bacharelado em Ciência da Computação na 
 
 ### Contato
 
-<a href="https://www.instagram.com/di0go_rodrigues" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%231C60E6?style=for-the-badge&logo=instagram&logoColor=white&backgroundoolor=" target="_blank"></a>&nbsp;
+<a href="https://www.instagram.com/__diogors" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%231C60E6?style=for-the-badge&logo=instagram&logoColor=white&backgroundoolor=" target="_blank"></a>&nbsp;
 <a href = "mailto:diogorodrigueslife@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%231C60E6?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>&nbsp;
 <a href="https://www.linkedin.com/in/diogorodriguees" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%231C60E6?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> &nbsp;
 
