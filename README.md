@@ -4,7 +4,7 @@
 
 Desenvolvedor de Software e graduando do Bacharelado em Ciência da Computação pela UTFPR. 
 
-Tenho como principal objetivo me especializar em sistemas distribuidos e computação em nuvem, área na qual busco constantemente aprimorar meus conhecimentos e habilidades. 
+Tenho como principal objetivo me especializar em sistemas distribuidos e computação em nuvem, área na qual busco constantemente aprimorar meus conhecimentos e habilidades. Tenho dominio nas seguintes tecnologias: TypeScript, NestJS, PostrgeSQL, NextJS  , RabbitMQ, Docker e Git.
 
 - [Projetos da Graduação](https://github.com/stars/DiogoRodriguees/lists/university-projects)
 - [Projetos em Java](https://github.com/stars/DiogoRodriguees/lists/java-projects)
