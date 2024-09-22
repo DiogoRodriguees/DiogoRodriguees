@@ -4,8 +4,8 @@
 
 ### Sobre
 
-Desenvolvedor Backend e graduando do Bacharelado em Ciência da Computação na UTFPR. Tenho como principal objetivo me especializar em sistemas distribuidos e computação em nuvem. 
-
+Desenvolvedor Backend e graduando do Bacharelado em Ciência da Computação na UTFPR. Foco em sistemas distribuidos e computação em nuvem. 
+<!--
 ### Experiência
 - #### Linguagens e frameworks
   - **TypeScript:** linguagem de maior dominio, focado no desenvolvimento web
@@ -28,7 +28,7 @@ Desenvolvedor Backend e graduando do Bacharelado em Ciência da Computação na 
 - #### Containers
   - **Docker:** criação de container docker para deploy de aplicações
   - **Kubernetes:** gerenciamento de infraestrutura no Elastic Compute Cloud
- 
+ -->
 
 ### Projetos de aprendizagem
 - [Projetos da Graduação](https://github.com/stars/DiogoRodriguees/lists/university-projects)
