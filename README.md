@@ -37,10 +37,10 @@ Desenvolvedor Backend e graduando do Bacharelado em Ciência da Computação na 
 - [Projetos em GO](https://github.com/stars/DiogoRodriguees/lists/go-projects)
 
 ### Tecnologias de dominio
-[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,typescript,nestjs,postgres,react,next,docker,redis,git,rabbitmq&perline=11)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ubuntu,typescript,nestjs,postgres,react,next,docker,kubernetes,redis,git,rabbitmq&perline=11)](https://skillicons.dev)
 
 ### Tecnologias de interesse
-[![My Skills](https://skillicons.dev/icons?i=aws,mongodb,java,spring,golang,python,kubernetes,bash,terraform&perline=11)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,mongodb,java,spring,golang,python,bash,terraform&perline=11)](https://skillicons.dev)
 
 <!---
 ### Github Analysis
