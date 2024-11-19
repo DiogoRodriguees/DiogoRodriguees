@@ -3,8 +3,19 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=25&vCenter=true&width=1000&lines=Olá,+seja+bem+vindo!)](https://git.io/typing-svg)
 
 ### Sobre
+Desenvolvedor backend com experiência em APIs RESTful e gRPC, e com um forte interesse em automação e infraestrutura como código. Tenho experiência em linguagens como Java, Go e TypeScript e no uso de frameworks como NestJS e ferramentas de DevOps como Docker, Kubernetes, AWS e CI/CD. Minha jornada inclui a desenvolvimento de APIs RESTful, gRPC e sistemas distribuídos, otimização de banco de dados PostgreSQL e implementação de pipelines automatizados para integração e entrega contínuas.
 
-Desenvolvedor Backend e graduando do Bacharelado em Ciência da Computação na UTFPR. Foco em sistemas distribuidos e computação em nuvem. 
+### Habilidades Técnicas
+- **Backend:** TypeScript (NestJS), Java (Spring Boot), Go
+- **DevOps:** Docker, Kubernetes, Terraform, CI/CD (Azure Pipelines)  
+- **Banco de Dados:** PostgreSQL, Redis  
+- **Sistemas Distribuídos:** RabbitMQ, Redis, gRPC, Microsserviços  
+
+### O que eu faço:
+- Desenvolvimento de APIs e sistemas backend (TypeScript, Java, GO);
+- Automação de infraestrutura com Terraform e Docker;
+- Monitoramento e otimização de desempenho de sistemas;
+
 <!--
 ### Experiência
 - #### Linguagens e frameworks
