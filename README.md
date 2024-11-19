@@ -37,16 +37,20 @@ Desenvolvedor Backend e graduando do Bacharelado em Ciência da Computação na 
 - [Projetos em GO](https://github.com/stars/DiogoRodriguees/lists/go-projects)
 
 ### Tecnologias de dominio
-[![My Skills](https://skillicons.dev/icons?i=ubuntu,typescript,nestjs,postgres,react,next,docker,kubernetes,redis,git,rabbitmq&perline=11)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ubuntu,typescript,nestjs,postgres,docker,kubernetes,redis,git,rabbitmq&perline=11)](https://skillicons.dev)
 
 ### Tecnologias de interesse
-[![My Skills](https://skillicons.dev/icons?i=aws,mongodb,java,spring,golang,python,bash,terraform&perline=11)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,golang,python,bash,terraform&perline=11)](https://skillicons.dev)
+
+### Tecnologias Secundárias
+[![My Skills](https://skillicons.dev/icons?i=mongodb,java,spring,react,next,&perline=11)](https://skillicons.dev)
+
 
 ### Github Analysis
 
 <a href="https://github.com/DiogoRodriguees">
 <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=DiogoRodriguees&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&title_color=f2f2f2"/>   
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoRodriguees&layout=compact&langs_count=4&theme=github_dark&hide=javascript,c%2B%2B,C,dart,shell,CMake,CSS,HTML,Swift,Makefile&hide_border=true&title_color=FFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoRodriguees&layout=compact&langs_count=5&theme=github_dark&hide=c%2B%2B,C,dart,shell,CMake,CSS,HTML,Swift,Makefile&hide_border=true&title_color=FFF"/>
 
 
 <!---
