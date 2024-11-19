@@ -32,8 +32,8 @@ Desenvolvedor Backend e graduando do Bacharelado em Ciência da Computação na 
 
 ### Projetos de aprendizagem
 - [Projetos da Graduação](https://github.com/stars/DiogoRodriguees/lists/university-projects)
-- [Projetos em Java](https://github.com/stars/DiogoRodriguees/lists/java-projects)
 - [Projetos em TypeScript](https://github.com/stars/DiogoRodriguees/lists/typescript-projects)
+- [Projetos em Java](https://github.com/stars/DiogoRodriguees/lists/java-projects)
 - [Projetos em GO](https://github.com/stars/DiogoRodriguees/lists/go-projects)
 
 ### Tecnologias de dominio
