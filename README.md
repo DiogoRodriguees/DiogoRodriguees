@@ -61,7 +61,7 @@ Desenvolvedor backend com experiência em APIs RESTful e gRPC, e com um forte in
 
 <a href="https://github.com/DiogoRodriguees">
 <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=DiogoRodriguees&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&title_color=f2f2f2"/>   
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoRodriguees&layout=compact&langs_count=5&theme=github_dark&hide=c%2B%2B,C,Jupyter%20Notebook,dart,shell,CMake,CSS,HTML,Swift,Makefile&hide_border=true&title_color=FFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoRodriguees&layout=compact&langs_count=5&theme=github_dark&hide=c%2B%2B,C,Jupyter%20Notebook,dart,shell,CMake,CSS,HTML,Swift,Makefile,Javascript&ount_private=true&hide_border=true&title_color=FFF"/>
 
 
 <!---
