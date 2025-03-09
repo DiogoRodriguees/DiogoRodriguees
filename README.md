@@ -5,13 +5,12 @@
 ### Sobre
 Desenvolvedor backend com experiência em APIs RESTful e gRPC, e com um forte interesse em automação e infraestrutura como código. Tenho experiência em linguagens como Java, Go e TypeScript e no uso de frameworks como NestJS e ferramentas de DevOps como Docker, Kubernetes, AWS e CI/CD. Minha jornada inclui a desenvolvimento de APIs RESTful, gRPC e sistemas distribuídos, otimização de banco de dados PostgreSQL e implementação de pipelines automatizados para integração e entrega contínuas.
 
-### Habilidades Técnicas
-- **Backend:** TypeScript (NestJS), Java (Spring Boot), Go
-- **DevOps:** Docker, Kubernetes, Terraform, CI/CD (Azure Pipelines)  
-- **Banco de Dados:** PostgreSQL, Redis  
-- **Sistemas Distribuídos:** RabbitMQ, Redis, gRPC, Microsserviços  
+### Principais Trabalhos
+- [Tattoo book](https://github.com/tattoo-book/tattoo-book-backend)  - System to promote jobs and search ideas about tattoos
+- [Chat Group](https://github.com/DiogoRodriguees/chat-group) - Chat group in real time with message encrupteds
+- [Caroline News](https://github.com/DiogoRodriguees/caroline-news) - Final project of subject distributed systems
 
-### O que eu faço:
+### Principais Atividades
 - Desenvolvimento de APIs e sistemas backend (TypeScript, Java, GO);
 - Automação de infraestrutura com Terraform e Docker;
 - Monitoramento e otimização de desempenho de sistemas;
@@ -48,14 +47,10 @@ Desenvolvedor backend com experiência em APIs RESTful e gRPC, e com um forte in
 - [Projetos em GO](https://github.com/stars/DiogoRodriguees/lists/go-projects)
 
 ### Tecnologias de dominio
-[![My Skills](https://skillicons.dev/icons?i=ubuntu,typescript,nestjs,postgres,docker,kubernetes,redis,git,rabbitmq&perline=11)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ubuntu,typescript,nestjs,react,next,postgres,docker,kubernetes,redis,git,rabbitmq&perline=11)](https://skillicons.dev)
 
 ### Tecnologias de interesse
-[![My Skills](https://skillicons.dev/icons?i=aws,golang,python,bash,terraform&perline=11)](https://skillicons.dev)
-
-### Tecnologias Secundárias
-[![My Skills](https://skillicons.dev/icons?i=mongodb,java,spring,react,next,&perline=11)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=aws,golang,python,bash,terraform,mongodb,java,spring&perline=11)](https://skillicons.dev)
 
 ### Github Analysis
 
