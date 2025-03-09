@@ -2,18 +2,18 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=25&vCenter=true&width=1000&lines=Olá,+seja+bem+vindo!)](https://git.io/typing-svg)
 
-### Sobre
-Bacharel em Ciência da Computação e atuando como desenvolvedor Backend/DevOps em APIs RestFull Javascript/Typescript. Interesse em sistemas distribuidos e computação em nuvem, busco me desenvolver para arquiteto de soluções.
+### About Me
+Bachelor of Computing Science and working as a Backend/DevOps developers in RestFull APIs Javascript/Typescript. Interested in distributed system and cloud computing.
 
-### Principais Trabalhos
+### Main Projects
 - [Tattoo book](https://github.com/tattoo-book/tattoo-book-backend)  - System to promote jobs and search ideas about tattoos
 - [Chat Group](https://github.com/DiogoRodriguees/chat-group) - Chat group in real time with message encrupteds
 - [Caroline News](https://github.com/DiogoRodriguees/caroline-news) - Final project of subject distributed systems
 
-### Principais Atividades
-- Desenvolvimento de APIs e sistemas backend (TypeScript, Java, Go);
-- Automação de infraestrutura com Terraform e Docker;
-- Monitoramento e otimização de desempenho de sistemas;
+### Main Activities
+- Development  APIs e systems backend (TypeScript, Java, Go);
+- Infrastructute automation with= Terraform and Docker;
+- System performance monitoring and optimization
 
 <!--
 ### Experiência
