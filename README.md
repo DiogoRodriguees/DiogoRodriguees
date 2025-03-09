@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=25&vCenter=true&width=1000&lines=Olá,+seja+bem+vindo!)](https://git.io/typing-svg)
 
 ### Sobre
-Desenvolvedor backend com experiência em APIs RESTful e gRPC, e com um forte interesse em automação e infraestrutura como código. Tenho experiência em linguagens como Java, Go e TypeScript e no uso de frameworks como NestJS e ferramentas de DevOps como Docker, Kubernetes, AWS e CI/CD. Minha jornada inclui a desenvolvimento de APIs RESTful, gRPC e sistemas distribuídos, otimização de banco de dados PostgreSQL e implementação de pipelines automatizados para integração e entrega contínuas.
+Desenvolvedor Backend/DevOps atuando em APIs RestFull em Javascript/Typescript. Interesse em sistemas distribuidos e computação em nuvem, busco me desenvolver para arquiteto de soluções.
 
 ### Principais Trabalhos
 - [Tattoo book](https://github.com/tattoo-book/tattoo-book-backend)  - System to promote jobs and search ideas about tattoos
@@ -11,7 +11,7 @@ Desenvolvedor backend com experiência em APIs RESTful e gRPC, e com um forte in
 - [Caroline News](https://github.com/DiogoRodriguees/caroline-news) - Final project of subject distributed systems
 
 ### Principais Atividades
-- Desenvolvimento de APIs e sistemas backend (TypeScript, Java, GO);
+- Desenvolvimento de APIs e sistemas backend (TypeScript, Java, Go);
 - Automação de infraestrutura com Terraform e Docker;
 - Monitoramento e otimização de desempenho de sistemas;
 
