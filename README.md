@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=25&vCenter=true&width=1000&lines=Olá,+seja+bem+vindo!)](https://git.io/typing-svg)
 
 ### Sobre
-Desenvolvedor Backend/DevOps atuando na criação APIs RestFull em Javascript/Typescript. Interesse em sistemas distribuidos e computação em nuvem, busco me desenvolver para arquiteto de soluções.
+Bacharel em Ciência da Computação e atuando como desenvolvedor Backend/DevOps em APIs RestFull Javascript/Typescript. Interesse em sistemas distribuidos e computação em nuvem, busco me desenvolver para arquiteto de soluções.
 
 ### Principais Trabalhos
 - [Tattoo book](https://github.com/tattoo-book/tattoo-book-backend)  - System to promote jobs and search ideas about tattoos
