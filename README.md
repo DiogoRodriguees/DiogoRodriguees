@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=125DB3&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=25&vCenter=true&width=1000&lines=Olá,+seja+bem+vindo!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=25&vCenter=true&width=1000&lines=Hi,+wellcome!)](https://git.io/typing-svg)
 
 ### About Me
 Bachelor of Computing Science and working as a Backend/DevOps developers in RestFull APIs Javascript/Typescript. Interested in distributed system and cloud computing.
@@ -40,18 +40,17 @@ Bachelor of Computing Science and working as a Backend/DevOps developers in Rest
   - **Kubernetes:** gerenciamento de infraestrutura no Elastic Compute Cloud
  -->
 
-### Projetos de aprendizagem
-- [Projetos da Graduação](https://github.com/stars/DiogoRodriguees/lists/university-projects)
-- [Projetos em TypeScript](https://github.com/stars/DiogoRodriguees/lists/typescript-projects)
-- [Projetos em Java](https://github.com/stars/DiogoRodriguees/lists/java-projects)
-- [Projetos em GO](https://github.com/stars/DiogoRodriguees/lists/go-projects)
+### Learning Projects
+- [Univesity Projects](https://github.com/stars/DiogoRodriguees/lists/university-projects)
+- [Typescript Projects](https://github.com/stars/DiogoRodriguees/lists/typescript-projects)
+- [Java Projects](https://github.com/stars/DiogoRodriguees/lists/java-projects)
+- [GO Projects](https://github.com/stars/DiogoRodriguees/lists/go-projects)
 
-### Tecnologias de dominio
+### Technologies of domain
 [![My Skills](https://skillicons.dev/icons?i=ubuntu,typescript,nestjs,react,next,postgres,docker,kubernetes,redis,git,rabbitmq&perline=11)](https://skillicons.dev)
 
-### Tecnologias de interesse
+### Technologies of interested
 [![My Skills](https://skillicons.dev/icons?i=aws,golang,python,bash,terraform,mongodb,java,spring&perline=11)](https://skillicons.dev)
-
 ### Github Analysis
 
 <a href="https://github.com/DiogoRodriguees">
@@ -102,7 +101,7 @@ Bachelor of Computing Science and working as a Backend/DevOps developers in Rest
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%2300599C.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp; 
 ![MySQL](https://img.shields.io/badge/-MySQL-%2300718B.svg?style=for-the-badge&logo=mysql&logoColor=%23FFF)&nbsp; -->
 
-### Contato
+### Contact Me
 
 <a href="https://www.instagram.com/__diogors" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%231C60E6?style=for-the-badge&logo=instagram&logoColor=white&backgroundoolor=" target="_blank"></a>&nbsp;
 <a href = "mailto:diogorodrigueslife@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%231C60E6?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>&nbsp;
