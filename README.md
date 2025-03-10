@@ -11,8 +11,8 @@ Bachelor of Computing Science and working as a Backend/DevOps developers in Rest
 - [Caroline News](https://github.com/DiogoRodriguees/caroline-news) - Final project of subject distributed systems
 
 ### Main Activities
-- Development  APIs e systems backend (TypeScript, Java, Go);
-- Infrastructute automation with= Terraform and Docker;
+- Development  APIs e backend systems (TypeScript, Java, Go);
+- Infrastructute automation with Terraform and Docker;
 - System performance monitoring and optimization
 
 <!--
