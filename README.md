@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=125DB3&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=25&vCenter=true&width=1000&lines=Hi,+wellcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=25&vCenter=true&width=1000&lines=Hi,+welcome!)](https://git.io/typing-svg)
 
 ### About Me
 Bachelor of Computing Science and working as a Backend/DevOps developers in RestFull APIs Javascript/Typescript. Interested in distributed system and cloud computing.
@@ -55,7 +55,7 @@ Bachelor of Computing Science and working as a Backend/DevOps developers in Rest
 
 <a href="https://github.com/DiogoRodriguees">
 <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=DiogoRodriguees&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&title_color=f2f2f2"/>   
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoRodriguees&layout=compact&langs_count=5&theme=github_dark&hide=c%2B%2B,C,Jupyter%20Notebook,dart,shell,CMake,CSS,HTML,Swift,Makefile,Javascript&ount_private=true&hide_border=true&title_color=FFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoRodriguees&layout=compact&langs_count=5&theme=github_dark&hide=c%2B%2B,C,Python,Jupyter%20Notebook,dart,shell,CMake,CSS,HTML,Swift,Makefile,Javascript&ount_private=true&hide_border=true&title_color=FFF"/>
 
 
 <!---
